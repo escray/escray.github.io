@@ -3,9 +3,9 @@
     <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <!--<title>Escape Ray by escray</title>-->
+    <!--<title>Escape Ray by escray</title>
     <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="javascripts/respond.js"></script>
     <!--[if lt IE 9]>
@@ -17,7 +17,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
       <title>{{ page.title }}</title>
       <!-- link to main stylesheet -->
-      <link rel="stylesheet" type="text/css" href="/css/main.css">
+      <link rel="stylesheet" type="text/css" href="/stylesheets/github-dark.css">
+      <link rel="stylesheet" type="text/css" href="/stylesheets/styles.css">
+
     </head>
     <body>
       <div id="header">
@@ -25,6 +27,8 @@
           <li class="fork"><a href="https://github.com/escray">View On GitHub</a></li>
         </nav>
       </div>
+      <div class="wrapper">
+      <section>
       <div id="title">
           <h1>Escape Ray</h1>
           <p></p>
@@ -33,7 +37,23 @@
           <span class="credits left">Project maintained by <a href="https://github.com/escray">escray</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
       </div>
+      <div class="container">
+      
+      {{ content }}
+      
+      </div><!-- /.container -->
+      <!--
+      <footer>
+          <ul>
+              <li><a href="mailto:zescray@gmail.com">email</a></li>
+              <li><a href="https://github.com/escray">github.com/escray</a></li>
+        </ul>
+      </footer>
+      -->
+      </section>
+      </div>
 
+<!--
       <nav>
           <ul>
               <li><a href="/">Home</a></li>
@@ -42,19 +62,10 @@
               <li><a href="/blog">Blog</a></li>
           </ul>
       </nav>
+-->
 
 
 
-      <div class="container">
-      
-      {{ content }}
-      
-      </div><!-- /.container -->
-      <footer>
-          <ul>
-              <li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-              <li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-        </ul>
-      </footer>
+
     </body>
   </html>
