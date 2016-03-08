@@ -2,7 +2,7 @@
 layout: default
 title: Hello, github pages
 ---
-##{{ page.title }}##
+{{ page.title }}
 
 This is my first article.
 
