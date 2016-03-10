@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: Mini Harp Static Server
+date: 2016-01-28
 ---
 
 I study this course in the daytime, however when I couldn't sleep at night, I come to pounch in.

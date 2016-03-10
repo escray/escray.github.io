@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: Implement Class Inheritance
+date: 2016-01-26
 ---
 
 After 260 days delay, I come back to this course.

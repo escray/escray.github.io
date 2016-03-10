@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: Create an npm Package
+date: 2015-05-05
 ---
 
 高铁。

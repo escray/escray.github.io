@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: post
 title: ToDo List When I was at home
-
+date: 2016-03-10
 ---
 
-After 16 days study at USTC, I went back to home by train Z227.
+After 16 days study at USTC, I went back to home by soft sleeper of train Z227. 
 
 There are lots of stuff that I have to deal with.
 
@@ -15,7 +15,7 @@ There are lots of stuff that I have to deal with.
 5. Celebrite Kate's Birthday
 6. Get car maintenance & washing at Fri, 11 Mar
 7. Go to office for filling some tablet at Thu, 10 Mar
-8. Wash bed linen and underware
+8. Wash sheet and underware
 9. Rent the house at Fri, 11 Mar
 10. Hair cut
 11. Change the faucet
