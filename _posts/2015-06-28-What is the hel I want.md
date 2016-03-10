@@ -5,7 +5,7 @@ title: Hello again
 After the entrance test for USTC doctoral that is April 11th, I had a little depressed which seems like no target. I did not study any more in this episode, neither professional and english, and no patience to read book.
 In these about three months time, I watch the teleplay(Game of Throne Season 5), watch movies (Mad Max 4: Fury Road, Ex-Machine …), read fiction book ( 新宋 ), I like them, but those’s time consume and have little mean to my dream. Do I still have a dream?
 
-**What’s the hell I want? **
+**What’s the hell I want?**
 
 **I want to be a freelancer, free time and free financial.** To archive which I need to be hard work for long time. And I know freelancer means more self-discipline and more effectively. In after one more year time, I will try my best to get this goal. If not, I will deadly stay this rigid architecture.
 
