@@ -17,3 +17,6 @@ Today, I get up at 5:00. It's a good beginning. And I really want to go bed befo
 In about 7 days from now to 10th, February, I would finish my Liulishuo English course. And it's high possibility that I could get my tuition back because I can meet the standards.
 
 I am trying to find my own way that could extend my value. I think that maybe include Ruby on Rails, JavaScript and Block Chain. I need more time to learn and practice.
+
+> It is not true that people stop pursuing dreams because they grow old, they grow old because they stop pursuing dream.
+-- Gabriel Garcia Marquez
